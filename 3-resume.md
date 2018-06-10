@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resume
 date: 2018-06-07 20:20:29 -0400
 permalink: /resume/
