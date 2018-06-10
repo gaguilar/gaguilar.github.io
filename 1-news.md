@@ -7,6 +7,7 @@ permalink: /news/
 
 * `2018/05`: Started an **internship** as Applied ML Scientist at **Amazon Alexa** (Cambridge, MA)
 * `2018/05`: Awarded with the UH Alumni Association and Natural Sciences and Mathematics Alumni **Scholarship**
+* `2018/01`: Graduate teaching assistant for [Natural Language Processing](https://thamar-solorio.github.io/cosc6336-nlp-sp2018/) (COSC 3663)
 * `2017/11`: **Workshop proposal** on Computational Approaches to Linguistic Code-switching was **accepted to ACL 2018**
 * `2017/09`: **First place** on [Noisy User-generated Text (W-NUT)](http://noisy-text.github.io/2017/) **shared task** at EMNLP 2017 
 * `2017/01`: Moved to the **Ph.D. program** at the University of Houston 
