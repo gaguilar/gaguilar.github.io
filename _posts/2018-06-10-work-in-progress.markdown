@@ -7,4 +7,4 @@ permalink: /wip/
 
 I will be posting some articles related to my research work any time soon... 
 
-### Stay tune! 
+### Stay tuned! 
