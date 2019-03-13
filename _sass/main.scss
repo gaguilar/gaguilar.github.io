@@ -58,10 +58,70 @@
 
 .site-nav {
   float: right;
-  text-align: right;
+  //text-align: right;
   line-height: $base-line-height * $base-font-size * 2.25;
-  padding-right: 10px;
+  //padding-right: 10px;
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg path {
+        fill: $grey-color-dark;
+      }
+    }
+
+    .trigger {
+      clear: both;
+      display: none;
+    }
+
+    .show {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 10px;
+      color: black !important;
+    }
+  }
 }
+
 
 .page-navigation {
   font-size: 90%;
