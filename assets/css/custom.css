@@ -1,0 +1,158 @@
+.post {
+  padding-top: 30px;
+}
+
+.center-image
+{
+    margin: auto;
+    display: block;
+    max-width: 70%;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
+
+.title-wrapper {
+  text-align: center;
+}
+
+a.post-preview {
+  color: inherit;
+}
+
+.post-preview-title {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.post-metadata {
+  display: inline-block;
+  float: left;
+  padding-top: 0.5em;
+  padding-right: 20px;
+}
+
+.post-date {
+  padding-bottom: 5px;
+}
+
+.tags {
+  display: inline-block;
+}
+
+.tag {
+    color: rgba(0,0,0,0.67);
+    padding: 0.1em 0.5em;
+    margin: 0;
+    font-size: 80%;
+    border: 1px solid rgba(0,0,0,0.4);
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding-right: 5px;
+    display: inline-block;
+}
+
+@media(min-width: 768px) {
+  .post-metadata {
+      width: 15%;
+      max-width: 15%;
+  }
+
+  .post-github {
+    float: left;
+    margin-right: 4px;
+  }
+
+  .post-paper{
+    float: left;
+    margin-right: 4px;
+  }
+}
+
+.post-description {
+    position: relative;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    max-width: 80%;
+    min-width: 80%;
+}
+div.post-description:hover {
+    border-radius: 15px;
+    border: 1px solid #000;
+    box-shadow: 4px 4px 2px #888888;
+    padding-left: 9px;
+    padding-top: 9px;
+    padding-bottom: 4px;
+    padding-right: 9px;
+}
+
+.post-github {
+  background-color: #E1E4FF;
+  display: inline-block;
+  font-size: 80%;
+  margin-top: 10px;
+  padding: 0.1em 0.5em;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  border: 1px solid rgba(0,0,0,0.4);
+}
+a.post-github {
+  color: inherit;
+}
+a.post-github:hover {
+  color: inherit;
+  background-color: #cbcbe4;
+  text-decoration: none;
+}
+
+
+.site-header {
+  background-color: #455264;
+  /*background-color: #3e4153;*/
+}
+
+.site-title {
+  color: #FFF !important;
+  float: none;
+}
+.site-title:hover {
+    color: #a2a2a2 !important;
+    text-decoration: none;
+}
+
+
+.site-nav .page-link:hover {
+  color: #a2a2a2 !important;
+  text-decoration: none;
+}
+
+
+.page-link {
+  color: #FFF !important;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}

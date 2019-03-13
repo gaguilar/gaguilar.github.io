@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gustavo Aguilar blog
-email: gaguilaralas@uh.edu
+title: Gustavo's website
+email: gaguilaralas AT uh DOT edu
 description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing and Machine Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tavo91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tavoaguilar91
 github_username:  tavo91
+google_analytics: UA-136188065-1
+
 
 # Build settings
 permalink: default
@@ -30,6 +32,22 @@ plugins:
   - jekyll-feed
 
 resume: /assets/resume.pdf
+
+#minima:
+#  social_links:
+#    twitter: jekyllrb
+#    github: jekyll
+#    dribbble: jekyll
+#    facebook: jekyll
+#    flickr: jekyll
+#    instagram: jekyll
+#    linkedin: jekyll
+#    pinterest: jekyll
+#    telegram: jekyll
+#    googleplus: +jekyll
+#    microdotblog: jekyll
+#    rss: rss
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
