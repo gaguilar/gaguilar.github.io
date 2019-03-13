@@ -9,7 +9,7 @@ permalink: /news/
 
 * `2019/02`: Recipient of the [2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)
 * `2019/01`: Recipient of the [Facebook Scholarship for the Udacity Deep Learning Nanodegree](https://www.udacity.com/facebook-pytorch-scholarship) (PyTorch)
-* `2019/01`: Awarded a scholarship to attend the CRA Grad Cohort Workshop for URMD, 2019
+* `2019/01`: Awarded with a scholarship to attend the CRA Grad Cohort Workshop for URMD, 2019
 
 #### **2018 News**
 
