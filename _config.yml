@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gustavo's website
+author: Gustavo Aguilar
 email: gaguilaralas AT uh DOT edu
 description: >- # this means to ignore newlines until "baseurl:"
   Natural Language Processing and Machine Learning
@@ -32,6 +33,8 @@ plugins:
   - jekyll-feed
 
 resume: /assets/resume.pdf
+
+
 
 #minima:
 #  social_links:
