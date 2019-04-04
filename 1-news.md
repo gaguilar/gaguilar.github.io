@@ -5,11 +5,16 @@ date: 2018-06-09 20:20:29 -0400
 permalink: /news/
 ---
 
+#### **Ongoing News**
+
+* I will join the Alexa NLU team in Seattle as an intern during the 2019 summer!
+* I will join the Snap Research Lab in LA as an intern during the 2019 fall!
+
 #### **2019 News**
 
 * `2019/02`: Recipient of the [2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)
 * `2019/01`: Recipient of the [Facebook Scholarship for the Udacity Deep Learning Nanodegree](https://www.udacity.com/facebook-pytorch-scholarship) (PyTorch)
-* `2019/01`: Awarded with a scholarship to attend the CRA Grad Cohort Workshop for URMD, 2019
+* `2019/01`: Awarded with a scholarship to attend the CRA Grad Cohort Workshop for URMD, 2019
 
 #### **2018 News**
 
