@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+#### **2019**
+
+* **Gustavo Aguilar**, Viktor Rozgic, Weiran Wang and Chao Wang.
+Multimodal and Multi-view Models for Emotion Recognition. [ACL 2019](http://www.acl2019.org/) **[TO APPEAR]**
+
 #### **2018**
 
 * **Gustavo Aguilar**, Fahad AlGhamdi, Victor Soto, Mona Diab, Julia Hirschberg and Thamar Solorio.
