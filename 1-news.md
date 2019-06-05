@@ -12,7 +12,7 @@ permalink: /news/
 
 #### **2019 News**
 
-* `2019/05`: Our shared-task proposal for Sentiment Analysis on Code-Mixed Data was accepted to SemEval-2020!
+* `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to SemEval-2020!
 * `2019/05`: I started my summer internship at the Alexa AI team in Seattle as Applied Scientist
 * `2019/05`: My paper on "Multimodal and Multi-view for Emotion Recognition" was accepted to ACL! 
 * `2019/02`: Recipient of the [2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)
