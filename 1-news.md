@@ -8,10 +8,14 @@ permalink: /news/
 #### **Ongoing News**
 
 * I will be presenting my research on NER in SACNAS this year! See you in Hawaii!
-* I will intern at the Snap Research Lab in LA!
 
 #### **2019 News**
-
+ 
+* `2019/08`: The **NSF proposal** my advisor and I wrote was accepted!! See this [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) 
+* `2019/07`: Received a scholarship from LinkedIn to attend 2019 ACM Richard Tapia Conference 
+* `2019/07`: The Amazon Alexa Speech team funded my trip to ACL 2019 to present our paper! 
+* `2019/06`: Another Facebook PyTorch Scholarship to complete the Deep Reinforcement Learning Nanodegree (in progress)
+* `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by Facebook PyTorch Scholarships!
 * `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to SemEval-2020!
 * `2019/05`: I started my summer internship at the Alexa AI team in Seattle as Applied Scientist
 * `2019/05`: Our paper on "Multimodal and Multi-view for Emotion Recognition" was accepted to ACL! 

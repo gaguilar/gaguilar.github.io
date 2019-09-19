@@ -6,8 +6,17 @@ permalink: /publications/
 
 #### **2019**
 
+* **Gustavo Aguilar**, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, and Edward Guo.
+[Knowdlegde Distillation from Internal Representations]().
+
+* **Gustavo Aguilar**, and Thamar Solorio.
+[From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://arxiv.org/pdf/1909.05158.pdf).
+
+* **Gustavo Aguilar**, and Thamar Solorio.
+[Dependency-Aware Named Entity Recognition with Relative and Global Attentions](https://arxiv.org/pdf/1909.05166.pdf).
+
 * **Gustavo Aguilar**, Viktor Rozgic, Weiran Wang and Chao Wang.
-Multimodal and Multi-view Models for Emotion Recognition. [ACL 2019](http://www.acl2019.org/) **[TO APPEAR]**
+[Multimodal and Multi-view Models for Emotion Recognition](https://www.aclweb.org/anthology/P19-1095). [ACL 2019](http://www.acl2019.org/)
 
 #### **2018**
 
