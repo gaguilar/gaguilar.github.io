@@ -12,14 +12,14 @@ permalink: /news/
 #### **2019 News**
  
 * `2019/08`: The **NSF proposal** my advisor and I wrote was accepted!! See this [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) 
-* `2019/07`: Received a scholarship from LinkedIn to attend 2019 ACM Richard Tapia Conference 
-* `2019/07`: The Amazon Alexa Speech team funded my trip to ACL 2019 to present our paper! 
-* `2019/06`: Another Facebook PyTorch Scholarship to complete the Deep Reinforcement Learning Nanodegree (in progress)
-* `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by Facebook PyTorch Scholarships!
-* `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to SemEval-2020!
-* `2019/05`: I started my summer internship at the Alexa AI team in Seattle as Applied Scientist
-* `2019/05`: Our paper on "Multimodal and Multi-view for Emotion Recognition" was accepted to ACL! 
-* `2019/02`: Recipient of the [2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)
+* `2019/07`: Received a scholarship from LinkedIn to attend **2019 ACM Richard Tapia Conference** 
+* `2019/07`: The **Amazon Alexa Speech team** funded my trip to **ACL 2019** to present our paper! 
+* `2019/06`: **Facebook PyTorch Scholarship** for the Deep Reinforcement Learning Nanodegree (WIP)
+* `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by **Facebook PyTorch Scholarships**!
+* `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to **SemEval-2020**!
+* `2019/05`: I started my summer internship at the **Alexa AI team** in Seattle as **Applied Scientist**
+* `2019/05`: Our paper on "Multimodal and Multi-view for Emotion Recognition" was accepted to **ACL**! 
+* `2019/02`: Recipient of the **[2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)**
 * `2019/01`: Recipient of the [Facebook Scholarship for the Udacity Deep Learning Nanodegree](https://www.udacity.com/facebook-pytorch-scholarship) (PyTorch)
 * `2019/01`: Awarded with a scholarship to attend the CRA Grad Cohort Workshop for URMD
 
