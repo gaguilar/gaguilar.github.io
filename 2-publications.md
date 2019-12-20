@@ -7,7 +7,8 @@ permalink: /publications/
 #### **2019**
 
 * **Gustavo Aguilar**, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, and Edward Guo.
-[Knowdlegde Distillation from Internal Representations](). **[UNDER REVIEW]**
+[Knowdlegde Distillation from Internal Representations](https://arxiv.org/pdf/1910.03723.pdf). 
+[AAAI-20](https://aaai.org/Conferences/AAAI-20/).
 
 * **Gustavo Aguilar**, and Thamar Solorio.
 [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://arxiv.org/pdf/1909.05158.pdf).
