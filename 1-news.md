@@ -10,7 +10,8 @@ permalink: /news/
 * I will be presenting my research on NER in SACNAS this year! See you in Hawaii!
 
 #### **2019 News**
- 
+
+* `2019/12`: Meetup: [Taller 1](https://docs.google.com/presentation/d/1vGsRTk50Ho9s_nqX-OTNaatA0DiK9yFAk9_sxLu3HYg/edit?usp=sharing) 
 * `2019/08`: The **NSF proposal** my advisor and I wrote was accepted!! See this [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) 
 * `2019/07`: Received a scholarship from LinkedIn to attend **2019 ACM Richard Tapia Conference** 
 * `2019/07`: The **Amazon Alexa Speech team** funded my trip to **ACL 2019** to present our paper! 
