@@ -7,16 +7,17 @@ permalink: /news/
 
 #### **Ongoing News**
 
-* I will be presenting my research on NER in SACNAS this year! See you in Hawaii!
+* I have accepted an internship offer from Salesforce Research for summer 2020 in Palo Alto! 
+* I will be presenting our paper on Knowledge Distillation from Internal Representations at AAAI-2020 on February!
 
 #### **2019 News**
 
-
-* `2019/12`: Meetup: [Taller 1](https://docs.google.com/presentation/d/1vGsRTk50Ho9s_nqX-OTNaatA0DiK9yFAk9_sxLu3HYg/edit?usp=sharing) [Taller 2](https://docs.google.com/presentation/d/1WgDUO4OhUio0T85Y-hJ5xrdOT5A5O-nRlpgK_yLeFyo/edit?usp=sharing) 
+* `2019/12`: Conducted two tutorials at Data Science El Salvador: [Tutorial 1](https://docs.google.com/presentation/d/1vGsRTk50Ho9s_nqX-OTNaatA0DiK9yFAk9_sxLu3HYg/edit?usp=sharing) and [Tutorial 2](https://docs.google.com/presentation/d/1WgDUO4OhUio0T85Y-hJ5xrdOT5A5O-nRlpgK_yLeFyo/edit?usp=sharing)
+* `2019/12`: Completed the [Deep Reinforcement Learning Nanodegree](https://graduation.udacity.com/confirm/SKQRC2UQ) also supported by **Facebook PyTorch Scholarships**!
+* `2019/11`: Presented my research on NER at SACNAS (Honolulu, HI). 
 * `2019/08`: The **NSF proposal** my advisor and I wrote was accepted!! See this [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) 
 * `2019/07`: Received a scholarship from LinkedIn to attend **2019 ACM Richard Tapia Conference** 
 * `2019/07`: The **Amazon Alexa Speech team** funded my trip to **ACL 2019** to present our paper! 
-* `2019/06`: **Facebook PyTorch Scholarship** for the Deep Reinforcement Learning Nanodegree (WIP)
 * `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by **Facebook PyTorch Scholarships**!
 * `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to **SemEval-2020**!
 * `2019/05`: I started my summer internship at the **Alexa AI team** in Seattle as **Applied Scientist**

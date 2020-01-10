@@ -22,12 +22,16 @@
                 <span class="post-meta post-metadata">
                   <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
 
-                  {% if post.has_paper %}
+                  {% if post.paper %}
                   <a class="post-github" href="{{ post.paper }}">paper</a>
                   {% endif %}
 
                   {% if post.github %}
                   <a class="post-github" href="{{ post.github }}">code</a>
+                  {% endif %}
+
+                  {% if post.video %}
+                  <a class="post-github" href="{{ post.video }}">video</a>
                   {% endif %}
 
                 </span>
