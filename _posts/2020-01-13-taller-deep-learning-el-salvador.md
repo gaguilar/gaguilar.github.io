@@ -63,7 +63,7 @@ Este post cubre la implementación de redes neuronales desde cero incluyendo un 
 
 Para entrenar y evaluar el modelo, vamos a utilizar dos datasets:
 1. **Moons dataset** (sección 7): el dataset de lunas :moon:
-2. **MNIST dataset** (sección 8): el dataset de reconocimiento de digitos escritos a mano :writing_hand:
+2. **MNIST dataset** (sección 8): el dataset de reconocimiento de dígitos escritos a mano :writing_hand:
 
 ## 1. Introducción al perceptron
 
@@ -189,7 +189,7 @@ decision(z) =
         \end{cases}
 $$
 
-#### **Estimación Máxima de Probabilidad (MLE)**
+#### **Estimación de la Probabilidad Máxima (MLE)**
 
 Ahora que el modelo produce valores continuos podemos mejorar la línea de clasificación maximizando las probabilidades. 
 Como nos interesa clasificar varios puntos correctamente y a la vez producir un solo valor para evaluar el modelo, 
@@ -231,7 +231,7 @@ $$
 A esta fórmula se le conoce como **"cross-entropy"** o **"negative log-likelihood"**, 
 y también se utiliza bastante en "information gain".
 
-#### :bulb: Pero... por qué estamos minimizando algo con signo negativo? :thinking:
+#### :bulb: Pero... ¿por qué estamos minimizando algo con signo negativo? :thinking:
 
 Si graficamos la función negativa del logaritmo obtenemos la curva de la Figura 4. 
 Recuerda que estamos sacando el logaritmo de probabilidades, así que nuestros $$x$$'s
