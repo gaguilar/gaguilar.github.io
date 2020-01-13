@@ -338,7 +338,7 @@ Veamos la siguiente red neuronal:
     </figure>
 </div> 
 
-Esta red neuronal tiene dos entradas $$x_1, x_2$$ (**<font color="grey">círculos grises</font>**) y dos capas de neuronas. 
+Esta red neuronal tiene dos entradas $$x_1, x_2$$ (**<font color="grey">círculos grises</font>**) y dos capas neuronales. 
 La primera capa es de cinco neuronas (**<font color="red">círculos rojos</font>**) y la segunda es de dos neuronas (**<font color="blue">círculos azules</font>**). 
 La primera capa puede variar en la cantidad de neuronas, pero la segunda se define a partir del número de clases posibles (por ejemplo, para predecir dígitos usaríamos 10 neuronas).
 Nota que cada una de las neuronas es equivalente al perceptron que definimos anteriormente, y por tanto, cada conexión de la figura
@@ -695,7 +695,7 @@ Entre las técnicas para prevenir overfitting están la **regularización $$\ell
 
 ## 8. MNIST dataset
 
-:bulb: _El código completo para el modelo entrenado en el MNIST dataset está [aquí](https://colab.research.google.com/drive/1_CLmMcdLpXPZrAWmw2bPdufcBQ62tfTM#scrollTo=uWtJ-vbVGLhr) e incluye la abstracción de múltiples capas de neuronas._
+:bulb: _El código completo para el modelo entrenado en el MNIST dataset está [aquí](https://colab.research.google.com/drive/1_CLmMcdLpXPZrAWmw2bPdufcBQ62tfTM#scrollTo=uWtJ-vbVGLhr) e incluye la abstracción de múltiples capas neuronales._
 
 El segundo caso en el que evaluaremos nuestra red es en el MNIST dataset. 
 Este dataset continiene imágenes de dígitos escritos a mano, y la tarea es determinar el digito en una imagen.
