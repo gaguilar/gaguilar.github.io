@@ -65,7 +65,7 @@ Para entrenar y evaluar el modelo, vamos a utilizar dos datasets:
 1. **Moons dataset** (sección 7): el dataset de lunas :moon:
 2. **MNIST dataset** (sección 8): el dataset de reconocimiento de digitos escritos a mano :writing_hand:
 
-## 1. Introducción al "perceptron"
+## 1. Introducción al perceptron
 
 Las redes neuronales artificiales están inspiradas en las redes neuronales humanas. 
 El principal concepto detrás es el **perceptron**, que escencialmente representa **una neurona**.
