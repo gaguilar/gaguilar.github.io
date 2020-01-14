@@ -27,7 +27,7 @@ y el [video](https://www.facebook.com/137784603720765/videos/2628659754087006/) 
     <img id='main-photo' src="{{ page.images[0].image_path }}" />
     <div style="display:inline-block; margin: 5px" align="center">
         {% for image in page.images %}
-            <a href="#">
+            <a>
                 <img class='photo-gallery' src="{{ image.image_path }}" width="22%"/>
             </a>
         {% endfor %}
