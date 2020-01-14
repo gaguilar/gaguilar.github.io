@@ -3,7 +3,7 @@ layout: post
 title:  "Introducción Práctica a Deep Learning (Taller 1)"
 description: "Deep learning desde cero, taller teórico y práctico para la comunidad de Data Science El Salvador"
 excerpt: "Deep learning desde cero, taller teórico y práctico para la comunidad de Data Science El Salvador"
-permalink: /data-science-el-savlvador-taller-intro-deep-learning/
+permalink: /data-science-el-salvador-taller-intro-deep-learning/
 date:   2020-01-13
 published: true
 tags: deep_learning backpropagation redes_neuronales
