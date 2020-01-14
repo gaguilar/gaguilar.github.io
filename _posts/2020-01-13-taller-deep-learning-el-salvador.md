@@ -349,7 +349,7 @@ representa un parámetro o peso de la red.
 
 Los parámetros de la Figura 7 están representados por las matrices $$\mathrm{W}_{1}$$ y $$\mathrm{W}_{2}$$, 
 cuyos índices se refieren a la capa a la que pertenecen. Hay que tomar en cuenta que los interceptos $$b_{1}$$ y $$b_{2}$$ 
-están omitimos por simplicidad, pero también son parte del modelo. Así es como se verían las matrices de parámetros:
+están omitidos por simplicidad, pero también son parte del modelo. Así es como se verían las matrices de parámetros:
   
 $$
 \mathrm{W}_{1} = 
