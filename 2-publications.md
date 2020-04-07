@@ -4,11 +4,25 @@ title: Publications
 permalink: /publications/
 ---
 
-#### **2019**
+#### **2020**
+
+* **Gustavo Aguilar**, and Thamar Solorio
+[From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://arxiv.org/pdf/1909.05158.pdf). 
+To appear in [ACL-2020](https://acl2020.org/).
+
+* P Patwa\*, **Gustavo Aguilar**\*, S Kar, S Pandey, S Pykl, D Garrette, G Bj¨orn, T Chakraborty, T Solorio, A Das. 
+[SemEval-2020 Sentimix Task 9: Overview of SENTIment Analysis of Code-MIXed Tweets](). 
+To appear in [SemEval-2020](http://alt.qcri.org/semeval2020/index.php?id=tasks).
+
+* **Gustavo Aguilar**, Sudipta Kar, and Thamar Solorio
+[LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation](). 
+To appear in [LREC-2020](https://acl2020.org/).
 
 * **Gustavo Aguilar**, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, and Edward Guo.
 [Knowdlegde Distillation from Internal Representations](https://arxiv.org/pdf/1910.03723.pdf). 
 [AAAI-20](https://aaai.org/Conferences/AAAI-20/).
+
+#### **2019**
 
 * **Gustavo Aguilar**, and Thamar Solorio.
 [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://arxiv.org/pdf/1909.05158.pdf).
