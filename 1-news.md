@@ -7,8 +7,14 @@ permalink: /news/
 
 #### **Ongoing News**
 
-* I have accepted an internship offer from Salesforce Research for summer 2020 in Palo Alto! 
-* I will be presenting our paper on Knowledge Distillation from Internal Representations at AAAI-2020 on February!
+* I have accepted an internship offer from Salesforce Research (Einstein) for summer 2020 in Palo Alto! 
+
+#### **2020 News**
+
+* I gave a guest lecture on Seq2Seq Models for the NLP class ([slides](https://docs.google.com/presentation/d/1nmTSrwa-8Pi456rBYfTyIpx9Gz_Kc1WBpBOf0SC4vCI/edit?usp=sharing), [code](https://github.com/gaguilar/basic_nlp_tutorial/blob/master/tutorial_on_seq2seq_models/Sequence\%20to\%20Sequence\%20Models\%20(COSC\%206336).ipynb))
+* Paper accepted to ACL: From English to Code-Switching: Transfer Learning with Strong Morphological Clues
+* Paper accepted to LREC: LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation
+* Paper accepted to AAAI: Knowledge Distillation from Internal Representations
 
 #### **2019 News**
 
