@@ -19,7 +19,7 @@ To appear in [SemEval-2020](http://alt.qcri.org/semeval2020/index.php?id=tasks).
 To appear in [LREC-2020](https://acl2020.org/).
 
 * **Gustavo Aguilar**, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, and Edward Guo.
-[Knowdlegde Distillation from Internal Representations](https://arxiv.org/pdf/1910.03723.pdf). 
+[Knowlegde Distillation from Internal Representations](https://arxiv.org/pdf/1910.03723.pdf). 
 [AAAI-20](https://aaai.org/Conferences/AAAI-20/).
 
 #### **2019**
