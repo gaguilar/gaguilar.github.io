@@ -14,8 +14,8 @@ _Updated on July 9, 2020_
 #### **2020 News**
 
 * `2020/7`: Published at **ACL**: [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://www.aclweb.org/anthology/2020.acl-main.716/)
-* `2020/5`: Started my summer internship at Salesforce Research with Bryan McCann and Nitish Keskar
-* `2020/5`: Defended my dissertation proposal on "Neural Sequence Labeling on Social Media"!
+* `2020/5`: Started my internship at **Salesforce Research** with [Bryan McCann](https://bmccann.github.io/) and [Nitish Keskar](https://keskarnitish.github.io/)!
+* `2020/5`: Defended my thesis proposal on [**Neural Sequence Labeling on Social Media**](https://uh.edu/nsm/computer-science/events/defenses/2020/0521-aguilar.php)!
 * `2020/5`: We released the first code-switching benchmark! Meet the [LinCE benchmark](https://ritual.uh.edu/lince/)!
 * `2020/5`: Published at **LREC**: [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation](https://www.aclweb.org/anthology/2020.lrec-1.223/)
 * `2020/4`: Gave a guest lecture on Seq2Seq Models for the NLP class ([slides](https://docs.google.com/presentation/d/1nmTSrwa-8Pi456rBYfTyIpx9Gz_Kc1WBpBOf0SC4vCI/edit?usp=sharing), [code](https://github.com/gaguilar/basic_nlp_tutorial/blob/master/tutorial_on_seq2seq_models/Sequence%20to%20Sequence%20Models%20(COSC%206336).ipynb))
@@ -32,7 +32,7 @@ _Updated on July 9, 2020_
 * `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by **Facebook PyTorch Scholarships**!
 * `2019/05`: Our proposal for Sentiment Analysis on Code-Mixed Data was accepted to **SemEval-2020**!
 * `2019/05`: I started my summer internship at the **Alexa AI team** in Seattle as **Applied Scientist**
-* `2019/05`: Our paper on "Multimodal and Multi-view for Emotion Recognition" was accepted to **ACL**! 
+* `2019/05`: Our paper on [Multimodal and Multi-view for Emotion Recognition](https://www.aclweb.org/anthology/P19-1095/) was accepted to **ACL**! 
 * `2019/02`: Recipient of the **[2019 Snap Inc. Research Fellowship](https://snapresearchfs.splashthat.com/)**
 * `2019/01`: Recipient of the [Facebook Scholarship for the Udacity Deep Learning Nanodegree](https://www.udacity.com/facebook-pytorch-scholarship) (PyTorch)
 * `2019/01`: Awarded with a scholarship to attend the CRA Grad Cohort Workshop for URMD
