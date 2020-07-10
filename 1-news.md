@@ -26,7 +26,7 @@ _Updated on July 9, 2020_
 * `2019/12`: Conducted two tutorials at Data Science El Salvador: [Tutorial 1](https://docs.google.com/presentation/d/1vGsRTk50Ho9s_nqX-OTNaatA0DiK9yFAk9_sxLu3HYg/edit?usp=sharing) and [Tutorial 2](https://docs.google.com/presentation/d/1WgDUO4OhUio0T85Y-hJ5xrdOT5A5O-nRlpgK_yLeFyo/edit?usp=sharing)
 * `2019/12`: Completed the [Deep Reinforcement Learning Nanodegree](https://graduation.udacity.com/confirm/SKQRC2UQ) also supported by **Facebook PyTorch Scholarships**!
 * `2019/11`: Presented my research on NER at SACNAS (Honolulu, HI). 
-* `2019/08`: The **NSF proposal** my advisor and I wrote was accepted!! See this [NSF link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) 
+* `2019/08`: The **NSF proposal** my advisor and I wrote [was accepted](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1910192&HistoricalAwards=false) !!
 * `2019/07`: Received a scholarship from LinkedIn to attend **2019 ACM Richard Tapia Conference** 
 * `2019/07`: The **Amazon Alexa Speech team** funded my trip to **ACL 2019** to present our paper! 
 * `2019/06`: Completed the [Deep Learning Nanodegree](https://graduation.udacity.com/confirm/USNK9QKH) supported by **Facebook PyTorch Scholarships**!
