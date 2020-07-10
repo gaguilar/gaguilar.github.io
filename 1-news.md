@@ -5,16 +5,21 @@ date: 2018-06-09 20:20:29 -0400
 permalink: /news/
 ---
 
+_Updated on July 9, 2020_
+
 #### **Ongoing News**
 
-* I have accepted an internship offer from Salesforce Research (Einstein) for summer 2020 in Palo Alto! 
+* I will be graduating by fall 2020, so I am looking for full-time opportunities as NLP researcher starting by 2021.
 
 #### **2020 News**
 
-* I gave a guest lecture on Seq2Seq Models for the NLP class ([slides](https://docs.google.com/presentation/d/1nmTSrwa-8Pi456rBYfTyIpx9Gz_Kc1WBpBOf0SC4vCI/edit?usp=sharing), [code](https://github.com/gaguilar/basic_nlp_tutorial/blob/master/tutorial_on_seq2seq_models/Sequence%20to%20Sequence%20Models%20(COSC%206336).ipynb))
-* Paper accepted to **ACL**: From English to Code-Switching: Transfer Learning with Strong Morphological Clues
-* Paper accepted to **LREC**: LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation
-* Paper accepted to **AAAI**: Knowledge Distillation from Internal Representations
+* `2020/7`: Published at **ACL**: [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://www.aclweb.org/anthology/2020.acl-main.716/)
+* `2020/5`: Started my summer internship at Salesforce Research with Bryan McCann and Nitish Keskar
+* `2020/5`: Defended my dissertation proposal on "Neural Sequence Labeling on Social Media"!
+* `2020/5`: We released the first code-switching benchmark! Meet the [LinCE benchmark](https://ritual.uh.edu/lince/)!
+* `2020/5`: Published at **LREC**: [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation](https://www.aclweb.org/anthology/2020.lrec-1.223/)
+* `2020/4`: Gave a guest lecture on Seq2Seq Models for the NLP class ([slides](https://docs.google.com/presentation/d/1nmTSrwa-8Pi456rBYfTyIpx9Gz_Kc1WBpBOf0SC4vCI/edit?usp=sharing), [code](https://github.com/gaguilar/basic_nlp_tutorial/blob/master/tutorial_on_seq2seq_models/Sequence%20to%20Sequence%20Models%20(COSC%206336).ipynb))
+* `2020/2`: Published at **AAAI**: [Knowledge Distillation from Internal Representations](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-AguilarG.8219.pdf)
 
 #### **2019 News**
 
@@ -34,7 +39,7 @@ permalink: /news/
 
 #### **2018 News**
 
-* `2018/12`: Granted with the [Best Junior PhD Student Award](http://www.uh.edu/nsm/computer-science/people/awards/) by the UH CS department 
+* `2018/12`: Obtained the [Best Junior PhD Student Award](http://www.uh.edu/nsm/computer-science/people/awards/) by the UH CS department 
 * `2018/05`: Started a summer **internship** as Applied ML Scientist at **Amazon Alexa** (Cambridge, MA)
 * `2018/05`: Awarded with the UH Alumni Association and NSM Alumni **Scholarship**
 * `2018/01`: Graduate teaching assistant for [Natural Language Processing](https://thamar-solorio.github.io/cosc6336-nlp-sp2018/) (COSC 3663)

@@ -5,7 +5,9 @@ date: 2018-06-07 20:20:29 -0400
 permalink: /resume/
 ---
 
-<a href="{{site.resume}}" target="_blank">Open resume in a new tab</a>
+_Updated on July 9, 2020_
+
+<a href="{{site.resume}}" target="_blank">Open resume PDF in a new tab</a>
 
 <object data="{{site.resume}}" type="application/pdf" width="100%" height="700px">
     <embed src="{{site.resume}}">
