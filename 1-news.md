@@ -13,6 +13,7 @@ _Updated on July 9, 2020_
 
 #### **2020 News**
 
+* `2020/7`: Outstanding PhD Student Award, by CS Dept, Univ. of Houston.
 * `2020/7`: Published at **ACL**: [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://www.aclweb.org/anthology/2020.acl-main.716/)
 * `2020/5`: Started my internship at **Salesforce Research** with [Bryan McCann](https://bmccann.github.io/) and [Nitish Keskar](https://keskarnitish.github.io/)!
 * `2020/5`: Defended my thesis proposal on [**Neural Sequence Labeling on Social Media**](https://uh.edu/nsm/computer-science/events/defenses/2020/0521-aguilar.php)!
