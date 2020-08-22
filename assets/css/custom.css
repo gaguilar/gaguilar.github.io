@@ -109,11 +109,13 @@ div.post-description:hover {
 }
 a.post-github {
   color: inherit;
+  transition: 0s background-color;
 }
 a.post-github:hover {
   color: inherit;
   background-color: #cbcbe4;
   text-decoration: none;
+  transition-delay:1s;
 }
 
 
