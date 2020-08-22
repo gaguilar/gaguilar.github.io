@@ -5,7 +5,7 @@ date: 2018-06-07 20:20:29 -0400
 permalink: /resume/
 ---
 
-_Updated on July 9, 2020_
+_Updated on August 22, 2020_
 
 <a href="{{site.resume}}" target="_blank">Open resume PDF in a new tab</a>
 
