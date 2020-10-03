@@ -8,6 +8,7 @@ date:   2020-10-02
 published: true
 tags: chess
 tags_visible: true
+show_in_blog: true
 comments: true
 ---
 
