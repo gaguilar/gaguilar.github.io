@@ -49,13 +49,11 @@
     </script>
 
     <script type="text/javascript">
-        var showRandomGame = function(boardId){
-            var board = null;
-            var game = new Chess();
-         
+        var showRandomGame = function(board, game){
             function makeRandomMove () {
               var possibleMoves = game.moves();
 
+              console.log(possibleMoves);
               // exit if the game is over
               if (game.game_over()) return;
 
@@ -64,10 +62,27 @@
               board.position(game.fen());
               window.setTimeout(makeRandomMove, 1000);
             }
-
-            board = Chessboard(boardId, 'start');
             window.setTimeout(makeRandomMove, 500);
-        }
+        };
+
+        var doChessMoves = function(board, game, moves, delay){
+            index = 0
+            function doMove(){
+                if (index >= moves.length) 
+                    return;
+                
+                var move = moves[index];
+
+                game.move(move);
+                board.position(game.fen());
+
+                index = index + 1;
+                console.log(index, move, delay);
+                window.setTimeout(doMove, delay);
+            }
+
+            window.setTimeout(doMove, delay);
+        };
     </script>
 
     <!-- Twitter cards -->
