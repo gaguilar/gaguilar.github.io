@@ -8,6 +8,7 @@ date:   2019-12-27
 published: true
 tags: text audio multimodal multiview emotion 
 tags_visible: true
+show_in_blog: true
 comments: true
 paper: https://www.aclweb.org/anthology/P19-1095
 video: http://www.livecongress.it/aol/indexSA.php?id=581B1C5F&ticket=
