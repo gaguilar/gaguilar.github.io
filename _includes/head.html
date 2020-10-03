@@ -22,6 +22,11 @@
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136188065-1"></script>
+    <script type="module" src="https://unpkg.com/chessboard-element?module"></script>
+    <link rel="stylesheet" href="/assets/css/chessboard-1.0.0.min.css">
+    <script src="/assets/js/chessboard-1.0.0.min.js"></script>
+    <script type="text/javascript" src="/assets/js/chess.js"></script>
+    <script src="/assets/js/header.js"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -41,6 +46,28 @@
         js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <script type="text/javascript">
+        var showRandomGame = function(boardId){
+            var board = null;
+            var game = new Chess();
+         
+            function makeRandomMove () {
+              var possibleMoves = game.moves();
+
+              // exit if the game is over
+              if (game.game_over()) return;
+
+              var randomIdx = Math.floor(Math.random() * possibleMoves.length);
+              game.move(possibleMoves[randomIdx]);
+              board.position(game.fen());
+              window.setTimeout(makeRandomMove, 1000);
+            }
+
+            board = Chessboard(boardId, 'start');
+            window.setTimeout(makeRandomMove, 500);
+        }
     </script>
 
     <!-- Twitter cards -->
