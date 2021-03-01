@@ -5,22 +5,23 @@ date: 2018-06-09 20:20:29 -0400
 permalink: /news/
 ---
 
-_Updated on July 9, 2020_
+_Updated on March 1, 2021_
 
 #### **Ongoing News**
 
-* I will be graduating by fall 2020, so I am looking for full-time opportunities as NLP researcher starting by 2021.
+* I have accepted a full-time offer from Amazon Alexa AI as an Applied Scientist 2!
 
 #### **2020 News**
 
+* `2020/12`: I successfully defended my dissertation and graduated from UH!
 * `2020/7`: Outstanding PhD Student Award, by CS Dept, Univ. of Houston.
-* `2020/7`: Published at **ACL**: [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://www.aclweb.org/anthology/2020.acl-main.716/)
+* `2020/7`: **ACL**: [From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://www.aclweb.org/anthology/2020.acl-main.716/)
 * `2020/5`: Started my internship at **Salesforce Research** with [Bryan McCann](https://bmccann.github.io/) and [Nitish Keskar](https://keskarnitish.github.io/)!
 * `2020/5`: Defended my thesis proposal on [**Neural Sequence Labeling on Social Media**](https://uh.edu/nsm/computer-science/events/defenses/2020/0521-aguilar.php)!
 * `2020/5`: We released the first code-switching benchmark! Meet the [LinCE benchmark](https://ritual.uh.edu/lince/)!
-* `2020/5`: Published at **LREC**: [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation](https://www.aclweb.org/anthology/2020.lrec-1.223/)
+* `2020/5`: **LREC**: [LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation](https://www.aclweb.org/anthology/2020.lrec-1.223/)
 * `2020/4`: Gave a guest lecture on Seq2Seq Models for the NLP class ([slides](https://docs.google.com/presentation/d/1nmTSrwa-8Pi456rBYfTyIpx9Gz_Kc1WBpBOf0SC4vCI/edit?usp=sharing), [code](https://github.com/gaguilar/basic_nlp_tutorial/blob/master/tutorial_on_seq2seq_models/Sequence%20to%20Sequence%20Models%20(COSC%206336).ipynb))
-* `2020/2`: Published at **AAAI**: [Knowledge Distillation from Internal Representations](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-AguilarG.8219.pdf)
+* `2020/2`: **AAAI**: [Knowledge Distillation from Internal Representations](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-AguilarG.8219.pdf)
 
 #### **2019 News**
 
